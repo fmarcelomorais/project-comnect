@@ -175,7 +175,7 @@ footer{
     text-align: center;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 768px) {
     .topo{
         display: flex;
         justify-content: space-between;  
